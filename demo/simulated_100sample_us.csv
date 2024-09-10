@@ -1,0 +1,101 @@
+state,sex,race,age,income_household,education,political_party
+Illinois,Male,Black or African American,55 to 59 years,"$150,000 to $199,999",High school graduate or higher,Democrat
+North Carolina,Female,White,20 to 24 years,"$100,000 to $149,999",Less than high school graduate,Republican
+Illinois,Male,Black or African American,25 to 34 years,"$200,000 or more",High school graduate or higher,Democrat
+Ohio,Female,White,25 to 34 years,"$50,000 to $74,999",High school graduate or higher,Democrat
+Massachusetts,Female,White,65 to 74 years,"$75,000 to $99,999",High school graduate or higher,Democrat
+New York,Female,Black or African American,45 to 54 years,"$35,000 to $49,999",High school graduate or higher,Republican
+Florida,Male,Hispanic or Latino (of any race),60 to 64 years,"$50,000 to $74,999",High school graduate or higher,Democrat
+Texas,Female,White,15 to 19 years,"$150,000 to $199,999",Some college or associate's degree,Republican
+Arizona,Female,Hispanic or Latino (of any race),55 to 59 years,"$15,000 to $24,999",High school graduate or higher,Republican
+Florida,Male,White,45 to 54 years,"Less than $10,000",Bachelor's degree or higher,Democrat
+Texas,Female,White,45 to 54 years,"$100,000 to $149,999",High school graduate or higher,Republican
+Alabama,Male,White,15 to 19 years,"$100,000 to $149,999",High school graduate or higher,Democrat
+California,Female,Hispanic or Latino (of any race),65 to 74 years,"$200,000 or more",High school graduate or higher,Republican
+Ohio,Female,White,15 to 19 years,"Less than $10,000",High school graduate or higher,Republican
+Wisconsin,Male,White,35 to 44 years,"$50,000 to $74,999",Bachelor's degree or higher,Republican
+Illinois,Male,White,35 to 44 years,"$100,000 to $149,999",High school graduate or higher,Republican
+Texas,Male,Hispanic or Latino (of any race),45 to 54 years,"$200,000 or more",Bachelor's degree or higher,Democrat
+Virginia,Male,Hispanic or Latino (of any race),35 to 44 years,"$100,000 to $149,999",High school graduate or higher,Republican
+Indiana,Male,White,15 to 19 years,"$100,000 to $149,999",Some college or associate's degree,Democrat
+Kansas,Female,White,60 to 64 years,"$50,000 to $74,999",High school graduate or higher,Republican
+New Jersey,Female,Hispanic or Latino (of any race),45 to 54 years,"$150,000 to $199,999",Bachelor's degree or higher,Republican
+Maryland,Male,Black or African American,65 to 74 years,"$100,000 to $149,999",Bachelor's degree or higher,Republican
+Georgia,Female,Black or African American,45 to 54 years,"$50,000 to $74,999",High school graduate or higher,Republican
+Michigan,Male,White,35 to 44 years,"$50,000 to $74,999",Bachelor's degree or higher,Democrat
+Colorado,Male,White,60 to 64 years,"$50,000 to $74,999",Bachelor's degree or higher,Republican
+Georgia,Male,Black or African American,45 to 54 years,"$200,000 or more",High school graduate or higher,Republican
+Utah,Male,White,55 to 59 years,"$75,000 to $99,999",Bachelor's degree or higher,Democrat
+Louisiana,Female,White,65 to 74 years,"$15,000 to $24,999",Bachelor's degree or higher,Republican
+New York,Male,Black or African American,35 to 44 years,"$200,000 or more",High school graduate or higher,Democrat
+Missouri,Female,White,65 to 74 years,"$15,000 to $24,999",High school graduate or higher,Republican
+Minnesota,Female,White,45 to 54 years,"$50,000 to $74,999",High school graduate or higher,Republican
+Texas,Male,Black or African American,45 to 54 years,"$200,000 or more",High school graduate or higher,Democrat
+Indiana,Male,White,55 to 59 years,"$35,000 to $49,999",High school graduate or higher,Republican
+Puerto Rico,Female,Hispanic or Latino (of any race),15 to 19 years,"Less than $10,000",High school graduate or higher,Republican
+Massachusetts,Female,Black or African American,55 to 59 years,"$100,000 to $149,999",High school graduate or higher,Republican
+New York,Female,White,55 to 59 years,"$100,000 to $149,999",High school graduate or higher,Democrat
+Kentucky,Male,Black or African American,25 to 34 years,"$100,000 to $149,999",High school graduate or higher,Democrat
+California,Male,White,35 to 44 years,"$150,000 to $199,999",Bachelor's degree or higher,Democrat
+Rhode Island,Male,White,60 to 64 years,"$100,000 to $149,999",High school graduate or higher,Republican
+South Carolina,Female,White,65 to 74 years,"$35,000 to $49,999",High school graduate or higher,Republican
+Florida,Female,White,55 to 59 years,"$100,000 to $149,999",High school graduate or higher,Republican
+Ohio,Female,White,45 to 54 years,"$35,000 to $49,999",High school graduate or higher,Republican
+Texas,Female,Hispanic or Latino (of any race),25 to 34 years,"$100,000 to $149,999",High school graduate or higher,Republican
+Tennessee,Female,White,65 to 74 years,"$25,000 to $34,999",High school graduate or higher,Republican
+Arizona,Male,White,25 to 34 years,"$75,000 to $99,999",Bachelor's degree or higher,Democrat
+Colorado,Female,White,35 to 44 years,"$35,000 to $49,999",High school graduate or higher,Democrat
+Virginia,Female,Asian,20 to 24 years,"$200,000 or more",Bachelor's degree or higher,Republican
+Ohio,Female,American Indian and Alaska Native,35 to 44 years,"$50,000 to $74,999",High school graduate or higher,Democrat
+Texas,Female,Hispanic or Latino (of any race),25 to 34 years,"$100,000 to $149,999",High school graduate or higher,Republican
+New York,Female,White,25 to 34 years,"$150,000 to $199,999",Bachelor's degree or higher,Democrat
+Tennessee,Female,White,20 to 24 years,"$200,000 or more",High school graduate or higher,Republican
+New York,Male,White,25 to 34 years,"$75,000 to $99,999",Bachelor's degree or higher,Democrat
+Washington,Male,White,35 to 44 years,"$50,000 to $74,999",High school graduate or higher,Republican
+California,Female,White,20 to 24 years,"$10,000 to $14,999",High school graduate or higher,Democrat
+New Jersey,Female,White,35 to 44 years,"$200,000 or more",High school graduate or higher,Democrat
+California,Male,White,15 to 19 years,"$150,000 to $199,999",Some college or associate's degree,Democrat
+California,Male,Asian,25 to 34 years,"$100,000 to $149,999",Bachelor's degree or higher,Democrat
+Louisiana,Female,White,15 to 19 years,"$35,000 to $49,999",Less than high school graduate,Republican
+New Jersey,Male,White,65 to 74 years,"$200,000 or more",High school graduate or higher,Democrat
+Florida,Female,Hispanic or Latino (of any race),65 to 74 years,"$25,000 to $34,999",Bachelor's degree or higher,Democrat
+Oregon,Female,White,45 to 54 years,"$150,000 to $199,999",High school graduate or higher,Democrat
+New Mexico,Male,White,45 to 54 years,"$15,000 to $24,999",High school graduate or higher,Republican
+California,Female,Hispanic or Latino (of any race),55 to 59 years,"$75,000 to $99,999",High school graduate or higher,Republican
+New Jersey,Female,White,20 to 24 years,"$50,000 to $74,999",Some college or associate's degree,Republican
+Florida,Male,Hispanic or Latino (of any race),15 to 19 years,"$75,000 to $99,999",Less than high school graduate,Republican
+Georgia,Male,White,55 to 59 years,"$10,000 to $14,999",High school graduate or higher,Democrat
+Missouri,Male,White,15 to 19 years,"$10,000 to $14,999",High school graduate or higher,Democrat
+Florida,Male,White,25 to 34 years,"$75,000 to $99,999",High school graduate or higher,Republican
+California,Female,White,65 to 74 years,"$35,000 to $49,999",Bachelor's degree or higher,Democrat
+New Jersey,Female,Hispanic or Latino (of any race),65 to 74 years,"$50,000 to $74,999",Bachelor's degree or higher,Republican
+New Jersey,Male,White,55 to 59 years,"$75,000 to $99,999",High school graduate or higher,Democrat
+Wisconsin,Male,White,25 to 34 years,"$50,000 to $74,999",Bachelor's degree or higher,Republican
+Ohio,Male,White,65 to 74 years,"$200,000 or more",High school graduate or higher,Republican
+Wisconsin,Male,Asian,20 to 24 years,"$15,000 to $24,999",High school graduate or higher,Democrat
+North Carolina,Female,White,25 to 34 years,"$25,000 to $34,999",High school graduate or higher,Republican
+Georgia,Female,Black or African American,25 to 34 years,"$100,000 to $149,999",Bachelor's degree or higher,Democrat
+Florida,Female,White,35 to 44 years,"$75,000 to $99,999",High school graduate or higher,Republican
+California,Male,Black or African American,35 to 44 years,"$35,000 to $49,999",Bachelor's degree or higher,Democrat
+Florida,Male,White,65 to 74 years,"$35,000 to $49,999",Bachelor's degree or higher,Republican
+Nevada,Male,White,20 to 24 years,"$25,000 to $34,999",Some college or associate's degree,Republican
+Georgia,Female,White,35 to 44 years,"$50,000 to $74,999",High school graduate or higher,Democrat
+Minnesota,Male,White,55 to 59 years,"$50,000 to $74,999",High school graduate or higher,Democrat
+Michigan,Female,White,35 to 44 years,"$50,000 to $74,999",Bachelor's degree or higher,Republican
+California,Female,Asian,20 to 24 years,"$75,000 to $99,999",Bachelor's degree or higher,Republican
+New Jersey,Female,Black or African American,25 to 34 years,"$100,000 to $149,999",High school graduate or higher,Republican
+New York,Male,White,65 to 74 years,"$200,000 or more",Bachelor's degree or higher,Republican
+New York,Male,White,65 to 74 years,"$150,000 to $199,999",High school graduate or higher,Republican
+Florida,Female,Black or African American,35 to 44 years,"$50,000 to $74,999",High school graduate or higher,Democrat
+Missouri,Male,White,15 to 19 years,"$75,000 to $99,999",Less than high school graduate,Republican
+Pennsylvania,Male,White,35 to 44 years,"$15,000 to $24,999",High school graduate or higher,Republican
+Montana,Female,American Indian and Alaska Native,35 to 44 years,"$50,000 to $74,999",Bachelor's degree or higher,Republican
+Ohio,Male,Black or African American,45 to 54 years,"$10,000 to $14,999",High school graduate or higher,Republican
+Massachusetts,Male,White,15 to 19 years,"$75,000 to $99,999",Some college or associate's degree,Democrat
+Indiana,Male,White,35 to 44 years,"$25,000 to $34,999",Bachelor's degree or higher,Republican
+Nebraska,Male,White,35 to 44 years,"$10,000 to $14,999",High school graduate or higher,Republican
+Ohio,Male,White,20 to 24 years,"$35,000 to $49,999",High school graduate or higher,Democrat
+North Carolina,Male,Black or African American,25 to 34 years,"$15,000 to $24,999",Bachelor's degree or higher,Republican
+Texas,Female,Hispanic or Latino (of any race),35 to 44 years,"$15,000 to $24,999",Bachelor's degree or higher,Republican
+Florida,Female,White,60 to 64 years,"$15,000 to $24,999",Bachelor's degree or higher,Republican
+Puerto Rico,Female,Hispanic or Latino (of any race),20 to 24 years,"$50,000 to $74,999",High school graduate or higher,Republican
